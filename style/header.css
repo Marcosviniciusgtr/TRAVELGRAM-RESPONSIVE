@@ -1,0 +1,19 @@
+header {
+  margin-top: 1.25rem;
+
+    & nav {
+
+      & a:nth-child(2) {
+        margin-left: auto;
+      }
+      & a {
+        color: var(--text-color-secondary);
+        font-size: 1rem;
+      }
+      }
+    }
+
+
+
+   
+  
