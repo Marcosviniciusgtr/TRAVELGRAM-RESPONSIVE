@@ -1,0 +1,17 @@
+#about {
+  margin-top: 2rem;
+  gap: 2rem;
+
+
+  & .profile {
+    & .description {
+      margin-top: 1rem;
+      & p{
+        margin-top: .5rem;
+      }
+    }
+
+
+
+    }
+    }
