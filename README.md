@@ -1,9 +1,3 @@
-Aqui está o seu README formatado para o **Travelgram**!  
-
-Vou incluir uma seção de **índice** para facilitar a navegação e melhorar a apresentação do projeto.  
-
----
-
 ## 📌 Travelgram
 
 Travelgram é um perfil de viagens que permite aos usuários compartilharem suas experiências ao redor do mundo. Ele exibe informações como localização, número de países visitados, quantidade de fotos tiradas e uma seleção de imagens em destaque. Além disso, conta com uma breve apresentação do usuário para dar um toque pessoal ao perfil.
