@@ -53,6 +53,10 @@ margin-inline: auto;
 
 }
 
+.bg-color {
+  background: var(--bg-color);
+}
+
 @media (width >= 80em) {
   .container {
     --max-width: 80rem;
